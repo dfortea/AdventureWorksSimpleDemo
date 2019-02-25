@@ -1,6 +1,7 @@
 # Adventure Works ORM Demo
 <p>This demo intends to show different ways of improving performance by optimizing LINQ queries yet displaying ways to monitor and debug activity that Entity Framework (ORM) generates in the backgroud</p> 
 <p>Dowload AdventureWorks2016 database at https://www.microsoft.com/en-us/download/details.aspx?id=49502</p>
+<p>Demo Azure http://jamuro77-adventureworkssimpledemo.azurewebsites.net/en-us</p>
 <h2>Technologies</h2>
 <p>
     This demo makes use of the following components:
